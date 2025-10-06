@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm AMBER</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
-- 🔭 I’m currently working on [Web Code Editor](https://codeeditor.amberbisht.me)
-- 🌱 I’m currently learning **kubernetes + System Design**
-- 👨‍💻 All of my projects are available at [https://amberbisht.me](https://amberbisht.me)
+- 🔭 I’m currently working on web ide - https://codeeditor.amberbisht.me
+- 👨‍💻 All of my projects are available at https://amberbisht.me
 - 📫 How to reach me **bishtamber0@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
