@@ -1,4 +1,4 @@
-<h1 align="center">AMBER BISHT :- bishtamber0@gmail.com</h1>
+<h1 align="center">amber bisht :- bishtamber0@gmail.com</h1>
 <h3 align="center">DevOps | Full stack</h3>
 
 <h3 align="left">Languages and Tools:</h3>
