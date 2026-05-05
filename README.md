@@ -28,3 +28,27 @@
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></td>
 </tr>
 </table>
+<h3>MY TOP PROJECTS</h3>
+<ul>
+  <li>
+    <strong>LMS (AES-128 Streaming)</strong> – video pipeline, anti-download, RBAC, AWS |
+    <a href="https://lms.amberbisht.me" target="_blank">Live</a> |
+    <a href="https://github.com/Amber-bisht/aes128-lms-admin-lambda-nextjs" target="_blank">Repo</a>
+  </li>
+  <li>
+    <strong>Link Secure</strong> – anti-bot, anti-automation link protection |
+    <a href="https://links.asprin.dev" target="_blank">Live</a> |
+    <a href="https://github.com/Amber-bisht/link-secure-advance" target="_blank">Repo</a>
+  </li>
+  <li>
+    <strong>AskSync</strong> – AI-powered forms/tests + evaluation |
+    <a href="https://asksync.amberbisht.me" target="_blank">Live</a> |
+    <a href="https://github.com/Amber-bisht/askSync" target="_blank">Repo</a>
+  </li>
+  <li>
+    <strong>Astro</strong> – kundali data + chart generation engine |
+    <a href="https://astro.amberbisht.me" target="_blank">Live</a> |
+    <a href="https://github.com/Amber-bisht/astro" target="_blank">Repo</a>
+  </li>
+</ul>
+
