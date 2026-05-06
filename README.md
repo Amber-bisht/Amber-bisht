@@ -1,54 +1,26 @@
-<h3 align="left">bishtamber0@gmail.com - Fullstack + Devops + Gen Ai:</h3>
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">AMBER BISHT — bishtamber0@gmail.com</h2>
 
-<table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/></td>
-<td><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/></td>
-</tr>
+<p align="left">
+Full-Stack Engineer | Backend Systems | Cloud Infrastructure
+</p>
 
-<tr>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></td>
-<td><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></td>
-</tr>
-</table>
-<h3>MY TOP PROJECTS</h3>
-<ul>
-  <li>
-    <strong>LMS (AES-128 Streaming)</strong> – video pipeline, anti-download, RBAC, AWS |
-    <a href="https://lms.amberbisht.me" target="_blank">Live</a> |
-    <a href="https://github.com/Amber-bisht/aes128-lms-admin-lambda-nextjs" target="_blank">Repo</a>
-  </li>
-  <li>
-    <strong>Link Secure</strong> – anti-bot, anti-automation link protection |
-    <a href="https://links.asprin.dev" target="_blank">Live</a> |
-    <a href="https://github.com/Amber-bisht/link-secure-advance" target="_blank">Repo</a>
-  </li>
-  <li>
-    <strong>AskSync</strong> – AI-powered forms/tests + evaluation |
-    <a href="https://asksync.amberbisht.me" target="_blank">Live</a> |
-    <a href="https://github.com/Amber-bisht/askSync" target="_blank">Repo</a>
-  </li>
-  <li>
-    <strong>Astro</strong> – kundali data + chart generation engine |
-    <a href="https://astro.amberbisht.me" target="_blank">Live</a> |
-    <a href="https://github.com/Amber-bisht/astro" target="_blank">Repo</a>
-  </li>
-</ul>
+<h3 align="left">Tech Stack</h3>
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="42"/>
+</p>
